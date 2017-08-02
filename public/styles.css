@@ -1,0 +1,12 @@
+li img{
+  height: 10%;
+  width: 10%;
+}
+
+h1, li, img{
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
